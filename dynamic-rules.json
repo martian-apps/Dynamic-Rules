@@ -8,7 +8,7 @@
   "app_token": "33d57ade8c02dbc5a333db99ff9ae26a",
   "static_param": "LeVvhQ1CyK0S2GRIQe7EUGSmuYDlHU1d",
   "remove_headers": [
-    "user_id"
+    "user-id"
   ],
   "checksum_indexes": [
     1,
